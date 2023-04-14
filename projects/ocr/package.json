@@ -1,0 +1,23 @@
+{
+  "name": "ocr",
+  "version": "1.0.0",
+  "description": "Test how ocr works",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VictorGreco/playground.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/VictorGreco/playground/issues"
+  },
+  "homepage": "https://github.com/VictorGreco/playground#readme",
+  "dependencies": {
+    "jimp": "^0.22.7",
+    "tesseract.js": "^4.0.3"
+  }
+}
